@@ -81,4 +81,4 @@ Basado en los resultados del análisis se proponen las siguientes acciones:
 
 ## Autor
 
-Proyecto desarrollado por Luis Fernande Mamani Mamani como parte del desafío de análisis de datos de Alura Latam.
+Proyecto desarrollado por Luis Fernando Mamani Mamani como parte del desafío de análisis de datos de Alura Latam.
